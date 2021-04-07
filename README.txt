@@ -1,4 +1,4 @@
-This repo will contain scripts that are useful for visualizing the outputs from analysis using BEAST.
+This repo will contain scripts that are useful for visualizing the outputs from analyses using BEAST.
 
 
 The script name and description of script can be found below:
